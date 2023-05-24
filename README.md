@@ -1,6 +1,6 @@
 ### **Introduction**
 
-I'm Star_Treks, a self-taught developer. I've been coding for over 5 years. I'm mainly a JavaScript and LUAU programmer on multiple platforms, including ROBLOX. Although, I have previously obtained knowledge within languages such as HTML. 
+I'm M_etrics, a self-taught developer. I've been coding for over 5 years. I'm mainly a JavaScript and LUAU programmer on multiple platforms, including ROBLOX. Although, I have previously obtained knowledge within languages such as HTML. 
 
 ### **Projects**
 I am currently working on projects in my studio, Stoneford Studios as the Lead Programmer. I've worked on the City of Raddleton (90K), South Pacific Airways (68K) and several other semi-known games. I'm somewhat a contributor to the Roblox Developer Forum, where I can support a range of developers in overcoming their coding errors/bugs. 
