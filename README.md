@@ -21,7 +21,7 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 >   - Used JavaScript to solve bugs with pre-existant API and incorporated into ROBLOX.
 > - [Blox Football League](mailto:stonefordstudios@gmail.com)
 >   - Tasked with the upkeep and management of API relating to our data systems, upkeep of unique ball mechanics and anti-cheats along with management of a team consisting of approximately 12 people.
-> - [Rane Trampoline Park]([https://discord.gg/southpacifi](https://www.roblox.com/groups/16192334/Rane-Trampoline-Park)c)
+> - [Rane Trampoline Park](https://www.roblox.com/groups/16192334/Rane-Trampoline-Park)
 >   - Coded the whole game with [Nicklaus](https://github.com/Nicklaus-s), incorporating Knit and other libraries to the workflow.
 
 Additionally, I actively contribute to the Roblox Developer Forum, where I engage with the developer community and offer support in troubleshooting coding errors and resolving bugs. It's fulfilling to assist fellow developers in their journey and witness their projects come to life.
