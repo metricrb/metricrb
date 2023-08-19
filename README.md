@@ -21,15 +21,15 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 >   - Used JavaScript to solve bugs with pre-existant API and incorporated into ROBLOX.
 > - [Blox Football League](mailto:stonefordstudios@gmail.com)
 >   - Tasked with the upkeep and management of API relating to our data systems, upkeep of unique ball mechanics and anti-cheats along with management of a team consisting of approximately 12 people.
+> - [Rane Trampoline Park]([https://discord.gg/southpacifi](https://www.roblox.com/groups/16192334/Rane-Trampoline-Park)c)
+>   - Coded the whole game with [Nicklaus](https://github.com/Nicklaus-s), incorporating Knit and other libraries to the workflow.
 
 Additionally, I actively contribute to the Roblox Developer Forum, where I engage with the developer community and offer support in troubleshooting coding errors and resolving bugs. It's fulfilling to assist fellow developers in their journey and witness their projects come to life.
 
 ## Technical Skills
 
 > - LUAU: I've been working with LUAU for over 5 years and consider myself an expert in the language. I'm proficient in utilizing various frameworks like Knit to build robust and efficient game systems.
-> - JavaScript: With over 3 years of experience in JavaScript, I've developed a strong proficiency in the language. While I have primarily focused on discord bots and API, I've also explored frameworks like React and Vue 
-    to create dynamic and interactive user interfaces.
-> - HTML: I've actively used HTML in conjunction with JavaScript and CSS to develop responsive and visually appealing web pages. It's a fundamental language that I'm semi-comfortable working with.
+> - JavaScript: With over 3 years of experience in JavaScript, I've developed a strong proficiency in the language. While I have primarily focused on discord bots and API, I've also explored frameworks like React and Vue to create dynamic and interactive user interfaces.
 > - Python: Although I'm not a professional Python developer. I continue to expand my knowledge in this versatile language.
 
 ## Contact
