@@ -2,6 +2,9 @@
 
 I'm a self-taught developer with a passion for creating engaging experiences through coding. With over 5 years of experience, I specialize in JavaScript and LUAU programming on various platforms, particularly ROBLOX. I'm also familiar with HTML and have dabbled in other languages and frameworks as well.
 
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/m_etrics)
+
+
 ## Projects
 
 > - [Stoneford Studios](mailto:stonefordstudios@gmail.com)
