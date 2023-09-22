@@ -23,6 +23,14 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 >   - Tasked with the upkeep and management of API relating to our data systems, upkeep of unique ball mechanics and anti-cheats along with management of a team consisting of approximately 12 people.
 > - [Rane Trampoline Park](https://www.roblox.com/groups/16192334/Rane-Trampoline-Park)
 >   - Coded the whole game with [Nicklaus](https://github.com/Nicklaus-s), incorporating Knit and other libraries to the workflow.
+> - [United Kingdom](https://www.roblox.com/groups/541807/UK-United-Kingdom#!/about)
+>   - Responsible for coding systems, features, patching bugs and code reviewing. Used many libraries, including a custom framework alongside tooling such as Rojo for version management.
+>   - Contributed to ideas and collaborative fixes within a team. 
+> - [cinevision.](https://www.roblox.com/groups/15338355/cinevision#!/about)
+>   - Coded a horror game and was responsible for the programming aspect of the game.
+>   - Furthermore, I was responsible for planning and ideas.
+> - [EFS Technologies](https://www.roblox.com/groups/11123044/EFS-Technology#!/about)
+>   - Currently working on undisclosed projects and contributing to a emergency service based game studio.
 
 Additionally, I actively contribute to the Roblox Developer Forum, where I engage with the developer community and offer support in troubleshooting coding errors and resolving bugs. It's fulfilling to assist fellow developers in their journey and witness their projects come to life.
 
