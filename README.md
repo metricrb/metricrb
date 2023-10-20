@@ -12,7 +12,7 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 >   - The majority of this role is working with cross-server messaging, data, APIs and integrating a discord bot to work with a ROBLOX place.
 > - [South Pacific Airways](https://discord.gg/southpacific)
 >   - Upkeep of technology within all group games.
->   - Project managing a team of 20+ developers to create new airports, technology and planes for passengers to enjoy.
+>   - Project managing a team of 30+ developers to create new airports, technology and planes for passengers to enjoy.
 >   - Technological Lead & Development Board (as of 2023).
 >   - Recoded whole mainframe of the game, incorporating Knit and Rojo to the workflow.
 >   - Ensure smooth operations within the group of 170k members.
@@ -24,6 +24,7 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 >   - Used JavaScript to solve bugs with pre-existant API and incorporated into ROBLOX.
 > - [Blox Football League](mailto:stonefordstudios@gmail.com)
 >   - Tasked with the upkeep and management of API relating to our data systems, upkeep of unique ball mechanics and anti-cheats along with management of a team consisting of approximately 12 people.
+>   - Overseeing projects such as the Hub, using Fusion, Koute and various other packages.
 > - [Rane Trampoline Park](https://www.roblox.com/groups/16192334/Rane-Trampoline-Park)
 >   - Coded the whole game with [Nicklaus](https://github.com/Nicklaus-s), incorporating Knit and other libraries to the workflow.
 > - [United Kingdom](https://www.roblox.com/groups/541807/UK-United-Kingdom#!/about)
