@@ -54,10 +54,5 @@ Feel free to reach out to me through the following channels:
 > - ROBLOX Talent Hub: [Profile](https://talent.roblox.com/creators/1614394440)
 
 #### I'm open to collaboration, discussions, and connecting with fellow developers and enthusiasts. 
-
-## Stats
-![Metrics's GitHub stats](https://github-readme-stats-nu-taupe.vercel.app/api?username=metricsrbx&show_icons=true&include_all_commits=true&theme=transparent&show=stars,commits,prs&hide_rank=true)
- ![Top Langs](https://github-readme-stats-nu-taupe.vercel.app/api/top-langs/?username=metricsrbx&layout=donut)
-
  ###### This bio may not up to date and the information mentioned above is not actively reviewed at the moment.
 
