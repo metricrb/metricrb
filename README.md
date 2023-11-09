@@ -49,8 +49,8 @@ Additionally, I actively contribute to the Roblox Developer Forum, where I engag
 Feel free to reach out to me through the following channels:
 
 > - Email: stonefordstudios@gmail.com
-> - Discord: mike.#0001
-> - GitHub: [startreksrbx](https://github.com/startreksrbx)
+> - Discord: m_etrics
+> - GitHub: [M_etrics](https://github.com/metricsrbx)
 > - ROBLOX Talent Hub: [Profile](https://talent.roblox.com/creators/1614394440)
 
 #### I'm open to collaboration, discussions, and connecting with fellow developers and enthusiasts. 
