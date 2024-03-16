@@ -44,15 +44,7 @@ Additionally, I actively contribute to the Roblox Developer Forum, where I engag
 > - JavaScript: With over 3 years of experience in JavaScript, I've developed a strong proficiency in the language. While I have primarily focused on discord bots and API, I've also explored frameworks like React and Vue to create dynamic and interactive user interfaces.
 > - Python: Although I'm not a professional Python developer. I continue to expand my knowledge in this versatile language.
 
-## Contact
+## Stats
+  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricsrbx&theme=transparent&hide_border=true" />
 
-Feel free to reach out to me through the following channels:
-
-> - Email: stonefordstudios@gmail.com
-> - Discord: m_etrics
-> - GitHub: [M_etrics](https://github.com/metricsrbx)
-> - ROBLOX Talent Hub: [Profile](https://talent.roblox.com/creators/1614394440)
-
-#### I'm open to collaboration, discussions, and connecting with fellow developers and enthusiasts. 
- ###### This bio may not up to date and the information mentioned above is not actively reviewed at the moment.
 
