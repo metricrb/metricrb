@@ -45,6 +45,6 @@ Additionally, I actively contribute to the Roblox Developer Forum, where I engag
 > - Python: Although I'm not a professional Python developer. I continue to expand my knowledge in this versatile language.
 
 ## Stats
-  <img alt="Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricsrbx&theme=transparent&hide_border=true" />
+<img alt="Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=metricsrbx&theme=dark&hide_border=false" />
 
 
