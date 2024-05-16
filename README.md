@@ -1,4 +1,6 @@
-My name is M_etrics. I'm currently a Senior Software Engineer at Rapidfire Entertainment, alongside my numerous other long-term commitments to EFS Technology and BritSov. 
+# I'm M_etrics 👋
+
+I'm currently a Senior Software Engineer at Rapidfire Entertainment, alongside my numerous other long-term commitments to EFS Technology and BritSov. 
 
 I'm a self-taught developer with a passion for creating engaging experiences through coding. With over 5 years of experience, I specialize in JavaScript and LUAU programming on various platforms, particularly ROBLOX. I'm also familiar with HTML and have dabbled in other languages and frameworks as well.
 
