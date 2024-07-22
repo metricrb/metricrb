@@ -1,4 +1,4 @@
-# I'm M_etrics 👋
+# I'm M_etrics or Michael👋
 
 I'm currently a Senior Software Engineer at Rapidfire Entertainment, alongside my numerous other long-term commitments to EFS Technology and BritSov. 
 
