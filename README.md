@@ -17,10 +17,9 @@ I'm currently a Senior Software Engineer at Rapidfire Entertainment, alongside m
 I'm a self-taught developer with a passion for creating engaging experiences through coding. With over 6 years of experience, I specialize in JavaScript and LUAU programming on various platforms, particularly ROBLOX. I'm also familiar with HTML and have dabbled in other languages and frameworks as well.
 
 - 🔭 I’m currently working on [Rapidfire Entertainment](https://github.com/RapidFire-Entertainment)  
+- ❓ Ask me about anything related to ROBLOX Pathfinding and building AI systems
+- 📌 See my contributions to [Roblox Docs](https://github.com/Roblox/creator-docs/pulls/metricrb).
   
-
-- ❓ Ask me about anything related to ROBLOX Pathfinding and building AI systems  
-    
 ## Languages and Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
