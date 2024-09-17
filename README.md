@@ -20,10 +20,7 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
   
 
 - ❓ Ask me about anything related to ROBLOX Pathfinding and building AI systems  
-  
-
-- ⚡ Fun fact: This is currently my real life job!
-  
+    
 ## Languages and Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
