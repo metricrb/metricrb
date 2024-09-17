@@ -50,7 +50,5 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metricrb&" alt="metricrb" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lghww91wioode5de74bjwf6o6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
-
 
 ----
