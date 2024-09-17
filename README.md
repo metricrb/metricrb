@@ -11,22 +11,10 @@
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
   
-
-
-
 ### Glad to see you here!  
 I'm currently a Senior Software Engineer at Rapidfire Entertainment, alongside my numerous other long-term commitments to EFS Technology and BritSov (formely). 
 
 I'm a self-taught developer with a passion for creating engaging experiences through coding. With over 6 years of experience, I specialize in JavaScript and LUAU programming on various platforms, particularly ROBLOX. I'm also familiar with HTML and have dabbled in other languages and frameworks as well.
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=lghww91wioode5de74bjwf6o6&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)  
-  
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Rapidfire Entertainment](https://github.com/RapidFire-Entertainment)  
   
@@ -34,24 +22,8 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 - ❓ Ask me about anything related to ROBLOX Pathfinding and building AI systems  
   
 
-- ⚡ Fun fact: This is currently my real life job!  
+- ⚡ Fun fact: This is currently my real life job!
   
-
-  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
@@ -77,31 +49,8 @@ I'm a self-taught developer with a passion for creating engaging experiences thr
 
 <br/>  
 
-
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=metricrb&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metricrb&" alt="metricrb" /></p>
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
