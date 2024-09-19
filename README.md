@@ -1,4 +1,4 @@
-## Hey, I'm M_etrics  
+## Hey, I'm Mike  
   
 
 <a href="https://github.com/metricrb" target="_blank">
