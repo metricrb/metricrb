@@ -1,53 +1,100 @@
-## Hey, I'm Mike  
-  
-
-<a href="https://github.com/metricrb" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/m_etrics" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://gitlab.com/metricsrbx" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
-</a>  
-  
-### Glad to see you here!  
-I'm currently a Senior Software Engineer at Rapidfire Entertainment, alongside my numerous other long-term commitments to EFS Technology and BritSov (formely). 
-
-I'm a self-taught developer with a passion for creating engaging experiences through coding. With over 6 years of experience, I specialize in JavaScript and LUAU programming on various platforms, particularly ROBLOX. I'm also familiar with HTML and have dabbled in other languages and frameworks as well.
-
-- 🔭 I’m currently working on [Rapidfire Entertainment](https://github.com/RapidFire-Entertainment)  
-- ❓ Ask me about anything related to ROBLOX Pathfinding and building AI systems
-- 📌 See my contributions to [Roblox Docs](https://github.com/Roblox/creator-docs/pulls/metricrb).
-  
-## Languages and Tools  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="25" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="25" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="25" /></a>  
-<a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="25" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-</div>  
-
-<br/>  
-
-## Github Stats  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metricrb&" alt="metricrb" /></p>
+## M_etrics, a ROBLOX Game Programmer and Producer 
+[Roblox Profile →](https://www.roblox.com/users/1614394440/profile)
 
 
-----
+---
+
+## Overview
+
+I’m a Software Engineer at **EFS Technology**, currently leading programming on _Police Response: Blythton_, and a Technical Producer at **Rapidfire Entertainment**. I specialize in Roblox-based development using **Luau** and **TypeScript**, with a strong focus on gameplay systems, cross-server communication, and backend infrastructure.
+
+I contribute to both **game engineering** and **web systems** across multiple projects, using tools such as **Rojo**, and backend stacks like **NestJS**, **Prisma**, and **Docker**. With over six years of production experience, I write scalable, maintainable systems tailored for live operations.
+
+**Not seeking new roles or freelance opportunities.**
+
+---
+
+## Core Responsibilities
+
+- Developing and maintaining core gameplay systems across Roblox projects
+- Leading programming and systems design on _Police Response: Blythton_
+- Writing production-level code in **Luau** and **TypeScript**
+- Resolving bugs, reviewing code, and coordinating with team engineers
+- Working on collaborative design and tooling pipelines using **Rojo** and custom frameworks
+- Web team contributor for backend development and deployment infrastructure
+
+---
+
+## Professional Experience
+
+### EFS Technology  
+**Software Engineer** (Sep 2023 – Present)
+- Lead programmer on **Police Response: Blythton**
+- Designed and implemented core gameplay systems and services
+- Maintained and patched existing systems in **Fire Response: Kenterbury**
+
+**Key Titles:**
+- _Police Response: Blythton_ – [Lead Programmer]  
+- _Fire Response: Kenterbury_ – [Ongoing maintenance and bugfixing]
+
+---
+
+### Rapidfire Entertainment  
+**Studio Lead** (Feb 2024 – Present)  
+Working alongside @TheBetterDark to build high-intensity, immersive experiences within our independent game studio.  
+
+---
+
+### South Pacific Airways  
+**Development Lead** (Jun 2020 – May 2023)
+- Directed a team of 40+ developers to create airports, aircraft, and tech systems
+- Re-architected the game’s core systems with a fully modular mainframe
+- Integrated **Rojo** and a new internal framework for scalable development
+
+---
+
+### BritSov  
+**Senior Web & Game Programmer** (Aug 2023 – Aug 2024)
+- Responsible for gameplay features, bug resolution, and team-wide code reviews
+- Developed within a custom framework using **Rojo** and a modular codebase
+- Contributed collaboratively to feature ideation and delivery
+
+**Key Titles:**
+- _Northminster™_ – In-development
+
+---
+
+### Phantom Correctional Center  
+**Full Stack Programmer** (Aug 2020 – Jan 2025)
+- Managed live operations across Roblox and Discord integrations
+- Built and maintained:
+  - API services for in-game/Discord communication
+  - Cross-server messaging systems and player data pipelines
+- Oversaw version control, infrastructure, and technical consistency across releases
+
+---
+
+## Ongoing Projects
+
+- **Police Response: Blythton** – Leading systems development
+- **Fire Response: Kenterbury** – Maintenance, debugging, and patch support
+- **Undisclosed** – AI- and systems-driven project developed independently
+
+---
+
+## Contact
+
+Typically available for collaboration between **08:00–18:00 BST**  
+For direct inquiries:
+
+- Email: **mikefromrapidfire@proton.me**
+- Discord available on request
+
+---
+
+## GitHub Stats
+
+> Note: GitHub reflects only public contributions. Private GitLab activity not included.
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=metricrb&theme=default)
+
