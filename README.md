@@ -6,7 +6,7 @@
 
 ## Overview
 
-I’m a Senior Software Engineer at **EFS Technology**, currently leading programming on _Police Response: Blythton_, and a Technical Producer at **Rapidfire Entertainment**. I specialize in Roblox-based development using **Luau** and **TypeScript**, with a strong focus on gameplay systems, cross-server communication, and backend infrastructure.
+I’m a Systems Engineer at **EFS Technology**, currently leading programming on _Police Response: Blythton_, and a Technical Producer at **Rapidfire Entertainment**. I specialize in Roblox-based development using **Luau** and **TypeScript**, with a strong focus on gameplay systems, cross-server communication, and backend infrastructure.
 
 I contribute to both **game engineering** and **web systems** across multiple projects, using tools such as **Rojo**, and backend stacks like **NestJS**, **Prisma**, and **Docker**. With over six years of production experience, I write scalable, maintainable systems tailored for live operations.
 
@@ -28,7 +28,7 @@ I contribute to both **game engineering** and **web systems** across multiple pr
 ## Professional Experience
 
 ### EFS Technology  
-**Software Engineer** (Sep 2023 – Present)
+**Systems Engineer** (Sep 2023 – Present)
 - Lead programmer on **Police Response: Blythton**
 - Designed and implemented core gameplay systems and services
 - Maintained and patched existing systems in **Fire Response: Kenterbury**
@@ -89,6 +89,7 @@ For direct inquiries:
 
 - Email: **mikefromrapidfire@proton.me**
 - Discord available on request
+- I do not read any messages outside of these two methods
 
 ---
 
