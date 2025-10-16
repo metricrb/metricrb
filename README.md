@@ -96,6 +96,7 @@ For direct inquiries:
 ## GitHub Stats
 
 > Note: GitHub reflects only public contributions. Private GitLab activity not included.
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=metricrb)](https://github.com/metricrb/github-profile-trophy)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=metricrb&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="metricrb" /></p>
